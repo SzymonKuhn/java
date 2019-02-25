@@ -14,14 +14,15 @@ public class ZmiennePrzyklady {
 
         int liczbaCalkowita = 13456;
         double liczbaZmiennoprzecinkowa = 134.55;
+
         char uniCode;
-        int symbolChar = 64178;
-        uniCode = symbolChar;
+        int numer = 1618;
+        uniCode = (char) numer;
 
         System.out.println(liczbaCalkowita);
-        System.out.println(uniCode);
         System.out.println(liczbaZmiennoprzecinkowa);
-        System.out.println(symbolChar);
+        System.out.println(uniCode);
+        System.out.println(numer);
 
     }
 }
