@@ -8,4 +8,17 @@ public class TypeIn {
         a = scanner.nextInt();
         return a;
     }
+    static double getDouble (){
+        double a;
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextDouble();
+        return a;
+    }
+
+    static String getString() {
+        String a;
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.next();
+        return a;
+    }
 }
