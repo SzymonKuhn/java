@@ -24,7 +24,7 @@ public class MyPointTest {
         MyPoint point1 = new MyPoint(x1, y1, name1);
         MyPoint point2 = new MyPoint(x2, y2, name2);
 
-        MyPoint.ShowDistance(point1.getA(), point1.getB(),point1.getName());
+        MyPoint.ShowDistance(point1.getA(), point1.getB(), point1.getName());
         MyPoint.ShowDistance(point2.getA(), point2.getB(), point2.getName());
 
     }
