@@ -1,4 +1,4 @@
-public class PointTest {
+public class MyPointTest {
 
     public static void main(String[] args) {
         double x1;
