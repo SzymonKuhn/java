@@ -5,7 +5,7 @@ public class Car {
         this.color = color;
         this.brand = brand;
     }
-
+// komentarz dodany na githubie
     @Override
     public String toString() {
         return "Car{" +
