@@ -21,9 +21,10 @@ public class MyPoint {
         this.name = name;
     }
 
-    public static void ShowDistance(double a, double b, String name) {
+    public void showDistance() {
         double c = (Math.pow(a, 2)) + (Math.pow(b, 2));
         System.out.println("Odległość punktu " + name + " od środka współrzędnych wynosi: " + (Math.sqrt(c)));
     }
+
 
 }
