@@ -1,3 +1,5 @@
+package pl.sda;
+
 public class Car {
     String color, brand;
 
@@ -8,7 +10,7 @@ public class Car {
 // komentarz dodany na githubie
     @Override
     public String toString() {
-        return "Car{" +
+        return "pl.sda.Car{" +
                 "color='" + color + '\'' +
                 ", brand='" + brand + '\'' +
                 '}';

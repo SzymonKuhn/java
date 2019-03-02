@@ -1,3 +1,5 @@
+package pl.sda.myPoint;
+
 public class MyPoint {
     private double a;
     private double b;

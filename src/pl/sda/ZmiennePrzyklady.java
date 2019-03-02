@@ -1,3 +1,5 @@
+package pl.sda;
+
 public class ZmiennePrzyklady {
     /**
      * komentarz do całej klasy

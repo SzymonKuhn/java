@@ -1,3 +1,5 @@
+package pl.sda.temperature;
+
 public class TemperatureConverter {
 
         static double getFahrenheit(double a) {

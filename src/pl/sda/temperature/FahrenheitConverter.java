@@ -1,3 +1,5 @@
+package pl.sda.temperature;
+
 import java.util.Scanner;
 
 public class FahrenheitConverter {

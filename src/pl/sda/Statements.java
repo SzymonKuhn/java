@@ -1,3 +1,5 @@
+package pl.sda;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 

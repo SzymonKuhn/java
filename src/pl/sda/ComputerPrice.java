@@ -1,3 +1,5 @@
+package pl.sda;
+
 import java.util.Scanner;
 
 public class ComputerPrice {

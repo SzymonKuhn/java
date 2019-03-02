@@ -1,3 +1,5 @@
+package pl.sda;
+
 public class CubeTest {
 
     public static void main(String[] args) {

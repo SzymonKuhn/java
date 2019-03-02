@@ -1,3 +1,5 @@
+package pl.sda.family;
+
 public class Family {
 
     private String familyName;

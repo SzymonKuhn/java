@@ -1,3 +1,7 @@
+package pl.sda.myPoint;
+
+import pl.sda.TypeIn;
+
 public class MyPointCreator {
 
     private String name;
